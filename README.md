@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ishwar Jadhav  
 
-🚀 **Data Analyst | BI Engineer | Cloud Data Enthusiast**  
+🚀 **Data Analyst | Data Engineer | Data Scientist**  
 I specialize in turning **raw data into actionable business insights** using modern analytics, cloud, and visualization tools. My experience spans **ETL pipeline design**, **real-time dashboards**, and **cloud data engineering** that have directly contributed to millions in business impact.  
 
 ---
